@@ -1,9 +1,9 @@
 {
   "updates": {
     "serial": {
-      "open-url": "",
+      "open-url": "https://drive.cvte.com/#/sandbox/6ae8/4b693a87b19f2f0b/%2F/",
       "latest-version": "1.0.6",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "download-url": "https://github.com/CriEdTry/serialupdate/raw/master/readme.png",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
     },
